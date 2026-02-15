@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gustavo Macario 👋
 
-<!--
-**GVelosa/GVelosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer focused on **Artificial Intelligence**, **Automation**, and clean **Fullstack Projects**. Currently, I am exploring the intersections between Machine Learning and practical solutions for everyday challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+* **Deep Learning:** Building LSTM models for time series forecasting applied to the Financial Market.
+* **Data Tools:** Creating applications with Flet and Pandas for automated data processing and educational management.
+
+### Tech Stack & Tools
+* **Languages:** Python, JavaScript, TypeScript.
+* **AI & Data:** Pandas, Scikit-learn, FastAPI.
+* **Web:** Next.js, React, Flet, Streamlit.
+
+### Interests & Studies
+Beyond technology, I am also on a constant journey to learn new languages, currently practicing **Italian and Spanish**.
+
+---
+
+### Connect with me
+* **LinkedIn:** [Gustavo Macario](https://www.linkedin.com/in/gustavovelosa/)
+---
