@@ -1,19 +1,14 @@
 # Hi, I'm Gustavo Macario 👋
 
-I am a developer focused on **Artificial Intelligence**, **Automation**, and clean **Fullstack Projects in Python**. Currently, I am exploring the intersections between Machine Learning and practical solutions for everyday challenges.
-
----
-
-### Featured Projects
-* **Flight Delay Prediction & Airport Clustering:** Developed Machine Learning models to predict flight delays above 15 minutes using historical flight data, along with clustering techniques to group similar airports based on operational patterns.
-
-* **Financial Time Series Forecasting (LSTM):** Designed and trained LSTM neural networks for financial market forecasting, applying deep learning techniques to time series data.
+I am a developer focused on **Artificial Intelligence**, **Automation**, and clean **Fullstack Projects in Python**. Currently, I am exploring the intersections between Machine Learning, automation and practical solutions for everyday challenges.
 
 ---
 
 ### Current Focus
 * **Data Tools:** Creating applications with Flet and Pandas for automated data processing and educational management.
-
+* **Python Lab:** Building and documenting a collection of experimental scripts and modular tools to populate my personal Python laboratory.
+* **MakeMeSomething:** An all-in-one web toolbox for daily digital tasks and automation workflows (Under development).
+  * *Note: Early versions of these tools can be found in my Python Lab.*
 ---
 
 ### Tech Stack & Tools
